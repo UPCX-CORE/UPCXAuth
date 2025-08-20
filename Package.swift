@@ -19,7 +19,7 @@ let package = Package(
 	.package(url: "https://github.com/krzyzanowskim/CryptoSwift.git", from: "1.9.0"),
 	.package(url: "https://github.com/21-DOT-DEV/swift-secp256k1.git", from: "0.21.1"),
 	.package(url: "https://github.com/anquii/RIPEMD160.git", from: "1.0.0"),
-	.package(url: "https://github.com/attaswift/BigInt.git", from: "5.6.0")
+	.package(url: "https://github.com/attaswift/BigInt.git", from: "5.4.0")
     ],
     targets: [
         // Your framework target
